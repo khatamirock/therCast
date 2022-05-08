@@ -1,0 +1,4 @@
+#Sat May 23 00:55:24 BDT 2020
+base.0=H\:\\WEB-DEV\\thercast\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

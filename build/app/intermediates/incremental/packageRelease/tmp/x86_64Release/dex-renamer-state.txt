@@ -1,0 +1,4 @@
+#Wed May 06 23:15:02 BDT 2020
+base.0=H\:\\WEB-DEV\\thercast\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
